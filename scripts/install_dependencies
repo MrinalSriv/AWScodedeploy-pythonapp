@@ -2,7 +2,5 @@
 yum install -y httpd
 sudo yum -y update
 sudo yum install python3
-#sudo yum install python3-pip
-#easy_install pip
 pip3 install -r /home/ec2-user/sample-app/requirements.txt
 
